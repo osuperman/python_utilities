@@ -9,7 +9,7 @@ import logging  # Import the logging module
 logging.basicConfig(level=logging.INFO)
 
 # The base URL of the website to check
-BASE_URL = "https://www.cdphp.com"
+BASE_URL = "https://www.example.com"
 
 def find_broken_links(base_url):
     """
